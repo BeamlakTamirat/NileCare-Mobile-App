@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-
+//API must be integrated ->Dagmawi
 class AuthService {
   // Simulate verifying an OTP code
   Future<bool> verifyOTP(String otpCode) async {
