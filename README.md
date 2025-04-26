@@ -1,21 +1,27 @@
-#🧑‍⚕️ Nile-Care
+<div align="center">
+  <h1 style="font-weight: 900; font-size: 2.8rem; font-family: Cursive; color: #2563eb;">
+    🧑‍⚕️ NileCare
+  </h1>
+</div>
+
+
 
 A modern healthcare mobile application built with Flutter that provides secure authentication and user-friendly healthcare services.
 
 
-## Overview
+## Overview 💫
 
 Nile-Care is a comprehensive healthcare platform designed to connect patients with healthcare providers, manage medical records, book appointments, and access health services. The application prioritizes security with two-factor authentication and follows modern UI/UX principles for an optimal user experience.
 
-## Features
+## Features 🩺
 
-### Authentication & Security
+### Authentication & Security 🔐
 - Secure login with email/phone and password
 - Two-Factor Authentication (2FA) with OTP verification
 - Password reset functionality with email verification
 - Strong password enforcement with security validation
 
-### Key Features (Planned)
+### Key Features (Planned) 📲
 - Patient profile management
 - Doctor appointments and scheduling
 - Medical records access
@@ -23,7 +29,7 @@ Nile-Care is a comprehensive healthcare platform designed to connect patients wi
 - Health monitoring
 - Telemedicine consultations
 
-## Technical Architecture
+## Technical Architecture 🏗️
 
 - Built with Flutter for cross-platform compatibility (iOS and Android)
 - MVC architecture for clean code organization
@@ -41,7 +47,7 @@ The application is currently in active development with the following components
 
 
 
-## Future Enhancements
+## Future Enhancements 🚀
 
 - Integration with healthcare provider systems
 - Enhanced analytics for health monitoring
