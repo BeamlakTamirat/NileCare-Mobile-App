@@ -1,4 +1,4 @@
-# Nile-Care
+#🧑‍⚕️ Nile-Care
 
 A modern healthcare mobile application built with Flutter that provides secure authentication and user-friendly healthcare services.
 
@@ -30,34 +30,6 @@ Nile-Care is a comprehensive healthcare platform designed to connect patients wi
 - RESTful API integration for backend services
 - Secure data storage for sensitive medical information
 
-## Getting Started
-
-### Prerequisites
-- Flutter SDK (latest version)
-- Dart SDK (latest version)
-- Android Studio or VS Code with Flutter extensions
-- An emulator or physical device for testing
-
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/Dagmawi123/nile_care.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd nile_care
-```
-
-3. Install dependencies:
-```bash
-flutter pub get
-```
-
-4. Run the app:
-```bash
-flutter run
-```
 
 ## Development Status
 
